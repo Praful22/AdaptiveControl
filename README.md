@@ -1,3 +1,4 @@
 # RobustAdaptiveControl
 
-Darwin states,"Survival of the fittest": Basically, the one that adapts, evolves. The other way around may be true if second law of thermodynamics is close to being violated. $(\delta s)
+References:
+[1] Lavretsky Eugene, Wise A. Kevin. Robust and Adaptive Control with Aerospace Applications. Springer, 2013.
