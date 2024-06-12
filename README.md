@@ -13,8 +13,8 @@ M_\alpha M_q \\
 \alpha \\
 q
 \end{array}\right)\right]+\left(\begin{array}{c}
-Z_\dele \\
-M_\dele\\
+Z_\deltae \\
+M_\deltae\\
 \end{array}\right) \times dele 
 \end{aligned}
 ```
