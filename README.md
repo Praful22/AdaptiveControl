@@ -13,11 +13,12 @@ M_\alpha & M_q
 \alpha \\
 q
 \end{array}\right)\right]+\left(\begin{array}{c}
-Z_{\delta e} \\
+\frac{Z_{\delta e}}{V_0} \\
 M_{\delta e}
 \end{array}\right) \times \delta e 
 \end{aligned}
 ```
+
 
 References: 
 
