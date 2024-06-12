@@ -18,6 +18,7 @@ M_{\delta e}
 \end{array}\right) \times \delta e 
 \end{aligned}
 ```
+The lateral-directional models can be writtten as:
 
 
 References: 
