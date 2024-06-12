@@ -7,7 +7,7 @@ The aircraft's short-period dynamics is given by:
 \dot{\alpha} \\
 \dot{q}
 \end{array}\right)=-\left[\left(\begin{array}{c}
-\Z_\alpha/V_0 \1+ Z_q / V_0 \\
+\frac{Z_\alpha}{V_0} \ 1+ Z_q / V_0 \\
 M_alpha M_q \\
 \end{array}\right) \times\left(\begin{array}{c}
 alpha \\
