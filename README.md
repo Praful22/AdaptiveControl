@@ -4,10 +4,10 @@ The aircraft's short-period dynamics is given by:
 ```math
 \begin{aligned}
 & \left(\begin{array}{c}
-\dot{alpha} \\
+\dot{\alpha} \\
 \dot{q}
 \end{array}\right)=-\left[\left(\begin{array}{c}
-\Z_alpha/V_0 \1+ Z_q / V_0 \\
+\Z_\alpha/V_0 \1+ Z_q / V_0 \\
 M_alpha M_q \\
 \end{array}\right) \times\left(\begin{array}{c}
 alpha \\
