@@ -1,3 +1,5 @@
+# WORK IN PROGRESS
+
 # RobustAdaptiveControl
 
 The aircraft's short-period dynamics is given by:
